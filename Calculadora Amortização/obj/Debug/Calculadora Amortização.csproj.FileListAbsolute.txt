@@ -1,0 +1,10 @@
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\bin\Debug\Calculadora Amortização.exe.config
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\bin\Debug\Calculadora Amortização.exe
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\bin\Debug\Calculadora Amortização.pdb
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\obj\Debug\Calculadora Amortização.csproj.AssemblyReference.cache
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\obj\Debug\Calculadora_Amortização.Form1.resources
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\obj\Debug\Calculadora_Amortização.Properties.Resources.resources
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\obj\Debug\Calculadora Amortização.csproj.GenerateResource.cache
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\obj\Debug\Calculadora Amortização.csproj.CoreCompileInputs.cache
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\obj\Debug\Calculadora Amortização.exe
+D:\Usuários\Hyouka\Documents\C# Projects\Calculadora Amortização\Calculadora Amortização\obj\Debug\Calculadora Amortização.pdb
