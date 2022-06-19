@@ -76,9 +76,9 @@ namespace Calculadora_Amortização
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(7, 73);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(34, 13);
+            this.label2.Size = new System.Drawing.Size(63, 13);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Taxa:";
+            this.label2.Text = "Taxa (a.m.):";
             // 
             // textBox_Taxa
             // 
@@ -94,9 +94,9 @@ namespace Calculadora_Amortização
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(7, 112);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(43, 13);
+            this.label3.Size = new System.Drawing.Size(82, 13);
             this.label3.TabIndex = 7;
-            this.label3.Text = "Tempo:";
+            this.label3.Text = "Tempo (meses):";
             // 
             // textBox_Tempo
             // 
@@ -117,8 +117,7 @@ namespace Calculadora_Amortização
             "Amortização Constante (SAC)",
             "Price",
             "Amortização Misto (SAM)",
-            "Alemão",
-            "Amortização Crescente (SACRE)"});
+            "Alemão"});
             this.comboBox.Location = new System.Drawing.Point(10, 167);
             this.comboBox.Name = "comboBox";
             this.comboBox.Size = new System.Drawing.Size(168, 21);
